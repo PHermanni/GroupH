@@ -1,6 +1,6 @@
 # Raspberry Pi IoT Monitor
 
-Suomenkielinen aloitusprojekti Raspberry Piin lämpötila- ja kosteusmittauksille. Projektin voi käynnistää ensin paikallisesti ilman oikeaa anturia; sen jälkeen sen voi yhdistää Azure IoT Hubiin ja Azure SQL Databaseen.
+Raspberry Pi lämpötila- ja kosteusmittauksille. Projektin voi käynnistää ensin paikallisesti ilman oikeaa anturia; sen jälkeen sen voi yhdistää Azure IoT Hubiin ja Azure SQL Databaseen.
 
 ## Ominaisuudet
 
@@ -40,9 +40,9 @@ tests/                  Perustestit
 .github/workflows/      GitHub Actions
 ```
 
-## 1. Kokeile verkkosivua paikallisesti
+## 1. Verkkosivu
 
-Tarvitset Python 3.11:n tai uudemman.
+Python 3.11:n tai uudempi
 
 Linux/macOS:
 
