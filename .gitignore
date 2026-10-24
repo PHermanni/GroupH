@@ -18,6 +18,11 @@ venv/
 *.sqlite3
 *.log
 
+device/data/
+*.db
+*.db-wal
+*.db-shm
+
 # Editor / OS
 .vscode/
 .idea/
